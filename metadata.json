@@ -1,0 +1,6 @@
+{
+  "name": "WEBNIXO AI Careers",
+  "description": "Job application landing page for WEBNIXO AI, directing candidates to apply via Google Forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
